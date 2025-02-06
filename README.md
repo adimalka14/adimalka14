@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Passionate about Web Technologies & Problem Solving</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adiMalka&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=adimalka14&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -53,9 +53,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiMalka&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adimalka14&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiMalka&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adimalka14&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
   <a href="https://github.com/adiMalka" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/adiMalka" target="_blank">
+  <a href="https://linkedin.com/in/adimalka14" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:adimalka14@gmail.com">
