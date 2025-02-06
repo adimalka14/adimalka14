@@ -62,7 +62,7 @@
 
 ## 📌 Connect with Me
 <p align="left">
-  <a href="https://github.com/adiMalka" target="_blank">
+  <a href="https://github.com/adimalka14" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://linkedin.com/in/adimalka14" target="_blank">
