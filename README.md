@@ -51,11 +51,23 @@
 
 ---
 
+## 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adimalka14&layout=compact&langs_count=6&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adimalka14&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adimalka14&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adimalka14&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -72,6 +84,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
+
 
 <!--
 **adimalka14/adimalka14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
