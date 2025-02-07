@@ -58,7 +58,6 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/passport.svg" alt="Passport.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/jsonwebtokens.svg" alt="JWT" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/swagger.svg" alt="Swagger" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/winston.svg" alt="Winston Logger" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
