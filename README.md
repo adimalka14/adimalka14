@@ -50,10 +50,9 @@
 </p>
 
 ---
-
 ## 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adimalka14&layout=compact&langs_count=6&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adimalka14&layout=compact&langs_count=6&theme=tokyonight&hide=jupyter%20notebook" alt="Most Used Languages" />
 </p>
 
 ---
